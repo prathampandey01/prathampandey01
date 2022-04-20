@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prathampandey
 - 👀 I’m interested in front-end dev
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me prathampppandey@gmail.com
 
