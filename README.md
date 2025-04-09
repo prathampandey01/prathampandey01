@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathampandey01&label=Profile%20views&color=0e75b6&style=flat" alt="prathampandey01" /> </p>
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 Learning everything and trusting the process.
 
 - 💬 Ask me about **Node, Postgres, MongoDB, Express, SQL**
 
